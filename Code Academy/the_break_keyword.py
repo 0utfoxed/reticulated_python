@@ -5,5 +5,5 @@ for i in numbers:
 		print("Negative number detected!")
 		break
 	print(i)
+	
 
-# The 'break' keyword in this if loop immediately ends its supercessory for loop.
